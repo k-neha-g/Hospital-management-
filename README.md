@@ -1,10 +1,6 @@
 
 # Hospital Management
 
----
-## screenshots
-### Homepage
-
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
